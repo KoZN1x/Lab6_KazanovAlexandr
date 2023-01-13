@@ -1,0 +1,15 @@
+E:\Programms\Lab6_KazanovAlexandr\bin\Release\net7.0\Lab6_KazanovAlexandr.exe
+E:\Programms\Lab6_KazanovAlexandr\bin\Release\net7.0\Lab6_KazanovAlexandr.deps.json
+E:\Programms\Lab6_KazanovAlexandr\bin\Release\net7.0\Lab6_KazanovAlexandr.runtimeconfig.json
+E:\Programms\Lab6_KazanovAlexandr\bin\Release\net7.0\Lab6_KazanovAlexandr.dll
+E:\Programms\Lab6_KazanovAlexandr\bin\Release\net7.0\Lab6_KazanovAlexandr.pdb
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\Lab6_KazanovAlexandr.csproj.AssemblyReference.cache
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\Lab6_KazanovAlexandr.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\Lab6_KazanovAlexandr.AssemblyInfoInputs.cache
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\Lab6_KazanovAlexandr.AssemblyInfo.cs
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\Lab6_KazanovAlexandr.csproj.CoreCompileInputs.cache
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\Lab6_KazanovAlexandr.dll
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\refint\Lab6_KazanovAlexandr.dll
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\Lab6_KazanovAlexandr.pdb
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\Lab6_KazanovAlexandr.genruntimeconfig.cache
+E:\Programms\Lab6_KazanovAlexandr\obj\Release\net7.0\ref\Lab6_KazanovAlexandr.dll
