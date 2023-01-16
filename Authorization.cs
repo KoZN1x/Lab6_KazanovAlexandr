@@ -28,7 +28,7 @@ namespace Lab6_KazanovAlexandr
             {
                 throw new WrongLoginException(); 
             }
-            if (password != confirmPassword || IsPasswordCorrect(password))
+            if (password != confirmPassword || !IsPasswordCorrect(password))
             {
                 throw new WrongPasswordException();
             }
