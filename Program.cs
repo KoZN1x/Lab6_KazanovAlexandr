@@ -8,7 +8,8 @@
             {
                 var firstUser = new Authorization("Vasiliy", "12345", "12345");
                 //var secondUser = new Authorization("Ihor Myasnikov", "1543", "1543");
-                var thirdUser = new Authorization("Pavel", "3214", "53215");
+                //var thirdUser = new Authorization("Pavel", "3214", "53215");
+                var forthUser = new Authorization("Nikita", "abcd", "abcd");
             }
             catch (Exception ex) 
             {
